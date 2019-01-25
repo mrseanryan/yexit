@@ -30,14 +30,23 @@ Please come back later!
 
 ## usage
 
-TODO xxx
+To run the editor:
+
+`yarn start`
+
+Changes to source code are hot-loaded.
+
+To build an installer:
+
+`yarn publish`
+
+(can only build for the same OS that you are running on)
 
 ## sites
 
 | site                 | URL                                               |
 | -------------------- | ------------------------------------------------- |
 | source code (github) | https://github.com/mrseanryan/yexit |
-| npm                  | https://www.npmjs.com/package/yexit |
 
 ## developing code in _this_ repository
 
