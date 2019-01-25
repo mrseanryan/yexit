@@ -83,5 +83,6 @@
     "tslint-config-prettier": "^1.17.0",
     "tslint-config-standard-sr": "^8.2.0",
     "typescript": "~2.2.2"
-  }
+  },
+  "private": true
 }
