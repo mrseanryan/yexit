@@ -2,7 +2,7 @@
   "name": "yexit",
   "productName": "yexit",
   "version": "1.0.0",
-  "description": "Yexit - YEt another 'x' edITor",
+  "description": "Yexit - YEt another teXt edITor",
   "main": "src/index.ts",
   "scripts": {
     "start": "electron-forge start",
